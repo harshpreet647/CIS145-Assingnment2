@@ -1,0 +1,77 @@
+.nav{
+    padding-left: 0.5%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 50px;
+    background-color: rgb(39, 37, 37);
+    }
+.search{
+    float:right;
+    padding-left: 65%;
+    }
+
+.bg{
+    background-image: url(main.jpg);
+    background-repeat: no-repeat;
+    height:450px;
+     
+}
+.bl,h4{ 
+    margin:2% 25% 3% 25%;    
+}
+.bl1{
+    background-image: url(cappuccino.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height:400px; 
+    padding-top:10%;
+    margin-bottom:3%;
+}
+.bl2{
+    background-image: url(americano.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height:400px; 
+    padding-top:10%;   
+    margin-bottom:3%;
+}
+.bl3{
+    background-image: url(double-expresso.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height:400px;
+    background-size: cover;
+    padding-top:10%;
+    margin-bottom:3%;
+}
+ 
+.aboutUs{
+    background-image:url("coffee.jfif");
+    height:500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom:50px;
+}
+h2{
+    margin-top:2%;
+    font-style:bold;
+    text-align:center;
+}
+h4{
+    margin-top:10px;
+    margin-left:20%;
+    font-style:bold;
+    padding-top:2%;
+}
+p{
+    margin-top:20px;
+    margin-left:20%;
+    margin-right:20%;
+    font-size:20px;
+    font-style: italic;
+    font-weight:400;
+    font-family:'Times New Roman', Times, serif;
+ }
+ 
+
+  
